@@ -6,6 +6,8 @@ Bootloader: Opencore 0.8.2 `Release`
 # Issues
 * Wifi & bluetooth due to there is no kext for Qualcomm board.
 
+If you are having trouble  with sleep mode rest nvram,
+
 # SMBIOS
 Use GenSMBIOS to set your device Serial Number & Model.It's recomended to select `MacBookPro15,3` model.
 ## To install:
