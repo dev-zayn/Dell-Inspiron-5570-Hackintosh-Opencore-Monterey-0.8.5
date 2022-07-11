@@ -3,8 +3,7 @@ This EFI was tested on DELL Inspiron 5570 core i7-8550U model. This EFI works wi
 
 Bootloader: Opencore 0.8.2 `Release`
 
-# Issues
-* Wifi & bluetooth due to there is no kext for Qualcomm board.
+
 
 # Notes you should know before Installing
 
@@ -17,6 +16,9 @@ Bootloader: Opencore 0.8.2 `Release`
     `reboot`
 
 * If you are having trouble  with sleep mode Rest NVRAM.
+
+# Issues
+* Wifi & bluetooth due to there is no kext for Qualcomm board.
 
 # SMBIOS
 Use GenSMBIOS to set your device Serial Number & Model.It's recomended to select `MacBookPro15,3` model.
