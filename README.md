@@ -1,5 +1,5 @@
 # Dell Inspiron 5570 Hackintosh Opencore Monterey 0.8.5
-This EFI was tested on DELL Inspiron 5570 core i7-8550U model. This EFI works with `Monterey 12.6`
+This EFI was tested on DELL Inspiron 5570 core i7-8550U model. This EFI tested with latest `Monterey 12.6`
 
 Bootloader: Opencore 0.8.5 `Release`
 
