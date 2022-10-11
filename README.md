@@ -1,7 +1,7 @@
-# OC_INSPIRON_5570_MONTEREY_0.8.2
-This EFI was tested on DELL Inspiron 5570 core i7-8550U model. This EFI works with `Monterey 12.4`
+# Dell Inspiron 5570 Hackintosh Opencore Monterey 0.8.5
+This EFI was tested on DELL Inspiron 5570 core i7-8550U model. This EFI works with `Monterey 12.6`
 
-Bootloader: Opencore 0.8.2 `Release`
+Bootloader: Opencore 0.8.5 `Release`
 
 
 
@@ -18,7 +18,7 @@ Bootloader: Opencore 0.8.2 `Release`
 * If you are having trouble  with sleep mode Rest NVRAM.
 
 # Issues
-* Wifi & bluetooth due to there is no kext for Qualcomm board.
+* Wifi & bluetooth for Qualcomm board only.
 
 # SMBIOS
 Use GenSMBIOS to set your device Serial Number & Model.It's recomended to select `MacBookPro15,3` model.
